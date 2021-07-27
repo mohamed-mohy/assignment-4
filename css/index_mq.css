@@ -1,0 +1,1034 @@
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 575.98px)
+{
+
+/* Start home */
+.home-con
+{
+    overflow: hidden;
+    height: 500px;
+    background-size: cover;
+}
+.home-color
+{
+    height: 500px;
+}
+.links ul
+{
+    position: static;
+    display: none;
+    background-color: rgba(0, 0, 0, 0.6);
+}
+.links ul li {
+    margin-bottom: 1px;
+}
+.links ul li, .links ul li a {
+    width: 100%;
+    padding: 5px;
+    margin-right: 60px;
+}
+.links .show-menu {
+    display:block;
+    position: absolute;
+    top: 20px;
+    right: 10%
+}
+.show-menu i{
+    font-size: 30px;
+}
+.home
+{
+    margin-top: 10%;
+}
+.home h3
+{
+    font-size: 1em;
+}
+.home h1
+{
+    font-size: 2.5em;
+}
+.typing1
+{
+    width: 75%;
+    left: 22%;
+    overflow: hidden;
+
+}
+.typing1 p
+{
+    width: 100%;
+    font-size: 1.5em;
+}
+/* end home */
+/* start about */
+.about
+{
+    flex-direction: column;
+    justify-content: center;
+    padding: 100px 5%;
+}
+.about-box
+{
+    width: 90%;
+}
+.about-contant
+{
+    width: 100%;
+    padding: 50px 0 0 0;
+    justify-content: center;
+}
+.about-contant h2
+{
+    font-size: 1.5em;
+}
+.about-contant p
+{
+    font-size: .8em;
+}
+
+.about-contant .btn
+{
+    font-size: .8em;
+}
+/* end about */
+/* start service */
+.service
+{
+    padding: 40px 5%;
+    display: flex;
+    flex-direction: column;
+}
+.service .box i
+{
+    font-size: 1.5em;
+}
+.service .box h3
+{
+    font-size: 1.2em;
+}
+.service .box p
+{
+    font-size: .8em;
+}
+.service-con h2
+{
+    font-size: 2em;
+}
+
+/* end service */
+/* start portfolio */
+.portfolio
+{
+    padding: 40px 5%;
+}
+.portfolio .row
+{
+    flex-direction: column;
+}
+.portfolio h2
+{
+    font-size: 2em;
+}
+.portfolio ul li
+{
+    font-size: .9em;
+    padding: 20px 10px;
+}
+
+/* end portfolio */
+/* start counter */
+.counter
+{
+    padding: 50px 5%;
+    flex-direction: column;
+}
+.counter .box
+{
+    padding-top: 20px;
+}
+/* end counter */
+/* start feedback */
+.feedback
+{
+    padding: 40px 5%;
+}
+.feedback h2
+{
+    font-size: 2em;
+}
+.feedback .card
+{
+    flex-direction: column;
+    width: 100%;
+}
+.feedback .card img
+{
+    top: 38%;
+    left: -30%;
+}
+.feedback .cont h3
+{
+    font-size: 1.3em;
+}
+.feedback .cont a
+{
+    font-size: .8em;
+}
+.feedback .cont p
+{
+    font-size: .8em;
+}
+
+/* end feedback */
+/* start blog */
+.blog
+{
+    overflow: hidden;
+    padding: 40px 5%;
+    flex-direction: column;
+}
+.blogbg h2
+{
+    font-size: 2em;
+}
+.blog h4
+{
+    font-size: .8em;
+}
+.blog .one
+{
+    font-size: 1.1em;
+}
+.blog p
+{
+    font-size: .8em;
+}
+.blog .col .two
+{
+    font-size: .8em;
+}
+/* end blog */
+/* start contact-us */
+.contact-us{
+    padding: 40px 5%;
+    overflow: hidden;
+}
+.contact-us h2
+{
+    font-size: 2em;
+}
+
+.contact-us form .row
+{
+    flex-direction: column;
+}
+.contact-us form .row input
+{
+    width: 100%;
+}
+.contact-us form .col 
+{
+    flex-direction: column;
+    justify-content: center;
+}
+.contact-us form .col input{
+    margin: 0 20px;
+}
+.contact-us form{
+    width: 100%;
+    margin: auto;
+}
+.contact-us form textarea
+{
+    width: 100%;
+}
+/* end contact-us */
+
+}
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 576px) and (max-width: 767.98px) 
+{
+
+/* Start home */
+.home-con
+{
+    overflow: hidden;
+    height: 500px;
+    background-size: cover;
+}
+.home-color
+{
+    height: 500px;
+}
+.links ul
+{
+    position: static;
+    display: none;
+    background-color: rgba(0, 0, 0, 0.6);
+}
+.links ul li {
+    margin-bottom: 1px;
+}
+.links ul li, .links ul li a {
+    width: 100%;
+    padding: 5px;
+    margin-right: 60px;
+}
+.links .show-menu {
+    display:block;
+    position: absolute;
+    top: 20px;
+    right: 10%
+}
+.show-menu i{
+    font-size: 30px;
+}
+.home
+{
+    margin-top: 10%;
+}
+.home h3
+{
+    font-size: 1em;
+}
+.home h1
+{
+    font-size: 2.5em;
+}
+.typing1
+{
+    width: 75%;
+    left: 22%;
+    overflow: hidden;
+
+}
+.typing1 p
+{
+    width: 100%;
+    font-size: 1.5em;
+}
+/* end home */
+/* start about */
+.about
+{
+    flex-direction: column;
+    justify-content: center;
+    padding: 100px 5%;
+}
+.about-box
+{
+    width: 90%;
+}
+.about-contant
+{
+    width: 100%;
+    padding: 50px 0 0 0;
+    justify-content: center;
+}
+.about-contant h2
+{
+    font-size: 1.5em;
+}
+.about-contant p
+{
+    font-size: .8em;
+}
+
+.about-contant .btn
+{
+    font-size: .8em;
+}
+/* end about */
+/* start service */
+.service
+{
+    padding: 40px 5%;
+    display: flex;
+    flex-direction: column;
+}
+.service .box i
+{
+    font-size: 1.5em;
+}
+.service .box h3
+{
+    font-size: 1.2em;
+}
+.service .box p
+{
+    font-size: .8em;
+}
+.service-con h2
+{
+    font-size: 2em;
+}
+
+/* end service */
+/* start portfolio */
+.portfolio
+{
+    padding: 40px 5%;
+}
+.portfolio .row
+{
+    flex-direction: column;
+}
+.portfolio h2
+{
+    font-size: 2em;
+}
+.portfolio ul li
+{
+    font-size: .9em;
+    padding: 20px 10px;
+}
+
+/* end portfolio */
+/* start counter */
+.counter
+{
+    padding: 50px 5%;
+    flex-direction: column;
+}
+.counter .box
+{
+    padding-top: 20px;
+}
+/* end counter */
+/* start feedback */
+.feedback
+{
+    padding: 40px 5%;
+}
+.feedback h2
+{
+    font-size: 2em;
+}
+.feedback .card
+{
+    flex-direction: column;
+    width: 100%;
+}
+.feedback .card img
+{
+    top: 38%;
+    left: -30%;
+}
+.feedback .cont h3
+{
+    font-size: 1.3em;
+}
+.feedback .cont a
+{
+    font-size: .8em;
+}
+.feedback .cont p
+{
+    font-size: .8em;
+}
+
+/* end feedback */
+/* start blog */
+.blog
+{
+    overflow: hidden;
+    padding: 40px 5%;
+    flex-direction: column;
+}
+.blogbg h2
+{
+    font-size: 2em;
+}
+.blog h4
+{
+    font-size: .8em;
+}
+.blog .one
+{
+    font-size: 1.1em;
+}
+.blog p
+{
+    font-size: .8em;
+}
+.blog .col .two
+{
+    font-size: .8em;
+}
+/* end blog */
+/* start contact-us */
+.contact-us{
+    padding: 40px 5%;
+    overflow: hidden;
+}
+.contact-us h2
+{
+    font-size: 2em;
+}
+
+.contact-us form .row
+{
+    flex-direction: column;
+}
+.contact-us form .row input
+{
+    width: 100%;
+}
+.contact-us form .col 
+{
+    flex-direction: column;
+    justify-content: center;
+}
+.contact-us form .col input{
+    margin: 0 20px;
+}
+.contact-us form{
+    width: 100%;
+    margin: auto;
+}
+.contact-us form textarea
+{
+    width: 100%;
+}
+/* end contact-us */
+
+}
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) and (max-width: 991.98px)
+{
+
+/* Start home */
+.home-con
+{
+    height: 800px;
+    background-size: cover;
+}
+.home-color
+{
+    height: 800px;
+}
+.links ul
+{
+    position: static;
+    display: none;
+    background-color: rgba(0, 0, 0, 0.6);
+}
+.links ul li {
+    margin-bottom: 1px;
+}
+.links ul li, .links ul li a {
+    width: 100%;
+    padding: 5px;
+    margin-right: 60px; 
+
+}
+.links .show-menu {
+    display:block;
+    position: absolute;
+    top: 20px;
+    right: 10%
+}
+.show-menu i{
+    font-size: 30px;
+}
+.home
+{
+    margin-top: 20%;
+}
+.home h3
+{
+    font-size: 1.5em;
+}
+.home h1
+{
+    font-size: 3em;
+}
+.typing1
+{
+    width: 70%;
+    left: 30%;
+    overflow: hidden;
+
+}
+.typing1 p
+{
+    width: 100%;
+    font-size: 2em;
+    overflow: hidden;
+}
+/* end home */
+/* start about */
+.about
+{
+    flex-direction: column;
+    justify-content: center;
+    padding: 100px 5%;
+}
+.about-box
+{
+    width: 70%;
+    align-self: center;
+}
+.about-contant
+{
+    width: 100%;
+    padding: 50px 0 50px 0;
+    align-self: center;
+    
+}
+.about-contant h2
+{
+    font-size: 3em;
+}
+.about-contant p
+{
+    font-size: .9em;
+}
+
+.about-contant .btn
+{
+    font-size: 1.1em;
+}
+/* end about */
+/* start service */
+.service
+{
+    padding: 40px 5%;
+    display: flex;
+    flex-direction: column;
+}
+.service .box i
+{
+    font-size: 1.5em;
+}
+.service .box h3
+{
+    font-size: 1.2em;
+}
+.service .box p
+{
+    font-size: .8em;
+}
+.service-con h2
+{
+    font-size: 3em;
+}
+
+/* end service */
+/* start portfolio */
+.portfolio
+{
+    padding: 40px 5%;
+}
+.portfolio .row
+{
+    flex-direction: column;
+}
+.portfolio h2
+{
+    font-size: 3.5em;
+}
+.portfolio ul li
+{
+    font-size: 1.2em;
+    padding: 20px 10px;
+}
+
+/* end portfolio */
+/* start counter */
+.counter
+{
+    padding: 50px 5%;
+    flex-wrap: wrap;
+}
+.counter .box
+{
+    padding-top: 20px;
+    width: 50%;
+}
+/* end counter */
+/* start feedback */
+.feedback
+{
+    padding: 40px 5%;
+}
+.feedback h2
+{
+    font-size: 3em;
+}
+.feedback .card
+{
+    flex-direction: column;
+    width: 100%;
+}
+.feedback .card img
+{
+    top: 38%;
+    left: -35%;
+}
+.feedback .cont h3
+{
+    font-size: 1.5em;
+}
+.feedback .cont a
+{
+    font-size: 1em;
+}
+.feedback .cont p
+{
+    font-size: 1em;
+}
+
+/* end feedback */
+/* start blog */
+.blog
+{
+    padding: 40px 5%;
+    flex-direction: column;
+}
+.blogbg h2
+{
+    font-size: 3em;
+}
+.blog h4
+{
+    font-size: .8em;
+}
+.blog .one
+{
+    font-size: 1.1em;
+}
+.blog p
+{
+    font-size: .8em;
+}
+.blog .col .two
+{
+    font-size: .8em;
+}
+/* end blog */
+/* start contact-us */
+.contact-us{
+    padding: 40px 5%;
+}
+.contact-us h2
+{
+    font-size: 3em;
+}
+
+.contact-us form .row
+{
+    flex-direction: column;
+}
+.contact-us form .row input
+{
+    width: 100%;
+    font-size: 1.1em;
+
+}
+.contact-us form .col 
+{
+    flex-direction: column;
+    justify-content: center;
+}
+.contact-us form .col input{
+    margin: 0 20px;
+    font-size: 1.1em;
+}
+.contact-us form{
+    width: 100%;
+    margin: auto;
+}
+.contact-us form textarea
+{   
+    width: 100%;
+    font-size: 1.1em;
+
+}
+.contact-us form button
+{
+    font-size: 1.1em;
+}
+
+/* end contact-us */
+.footer p
+{
+    font-size: .82em;
+}
+}
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) and (max-width: 1199.98px)
+{
+
+/* Start home */
+.home-con
+{
+    height: 800px;
+    background-size: cover;
+}
+.home-color
+{
+    height: 800px;
+}
+.links ul
+{
+    position: static;
+    display: none;
+    background-color: rgba(0, 0, 0, 0.6);
+}
+.links ul li {
+    margin-bottom: 1px;
+}
+.links ul li, .links ul li a {
+    width: 100%;
+    padding: 5px;
+    margin-right: 60px; 
+
+}
+.links .show-menu {
+    display:block;
+    position: absolute;
+    top: 20px;
+    right: 10%
+}
+.show-menu i{
+    font-size: 30px;
+}
+.home
+{
+    margin-top: 20%;
+}
+.home h3
+{
+    font-size: 1.5em;
+}
+.home h1
+{
+    font-size: 3em;
+}
+.typing1
+{
+    width: 70%;
+    left: 30%;
+    overflow: hidden;
+
+}
+.typing1 p
+{
+    width: 100%;
+    font-size: 2em;
+    overflow: hidden;
+}
+/* end home */
+/* start about */
+.about
+{
+    flex-direction: column;
+    justify-content: center;
+    padding: 100px 5%;
+}
+.about-box
+{
+    width: 70%;
+    align-self: center;
+}
+.about-contant
+{
+    width: 100%;
+    padding: 50px 0 50px 0;
+    align-self: center;
+    
+}
+.about-contant h2
+{
+    font-size: 3em;
+}
+.about-contant p
+{
+    font-size: .9em;
+}
+
+.about-contant .btn
+{
+    font-size: 1.1em;
+}
+/* end about */
+/* start service */
+.service
+{
+    padding: 40px 5%;
+    display: flex;
+    flex-wrap: wrap;
+}
+.service .box
+{
+    width: 50%;
+}
+.service .box i
+{
+    font-size: 1.5em;
+}
+.service .box h3
+{
+    font-size: 1.2em;
+}
+.service .box p
+{
+    font-size: .8em;
+}
+.service-con h2
+{
+    font-size: 3em;
+}
+
+/* end service */
+/* start portfolio */
+.portfolio
+{
+    padding: 40px 5%;
+}
+
+
+.portfolio h2
+{
+    font-size: 3.5em;
+}
+.portfolio ul li
+{
+    font-size: 1.2em;
+    padding: 20px 10px;
+}
+
+/* end portfolio */
+/* start counter */
+.counter
+{
+    padding: 50px 5%;
+    flex-wrap: wrap;
+}
+.counter .box
+{
+    padding-top: 20px;
+    width: 50%;
+}
+/* end counter */
+/* start feedback */
+.feedback
+{
+    padding: 40px 5%;
+}
+.feedback h2
+{
+    font-size: 3em;
+}
+.feedback .card
+{
+    flex-direction: column;
+    width: 70%;
+}
+.feedback .card img
+{
+    top: 30%;
+    left: -35%;
+}
+.feedback .cont h3
+{
+    font-size: 1.5em;
+}
+.feedback .cont a
+{
+    font-size: 1em;
+}
+.feedback .cont p
+{
+    font-size: 1em;
+}
+
+/* end feedback */
+/* start blog */
+.blog
+{
+    padding: 40px 5%;
+    flex-direction: column;
+}
+.blogbg h2
+{
+    font-size: 3em;
+}
+.blog h4
+{
+    font-size: .8em;
+}
+.blog .one
+{
+    font-size: 1.1em;
+}
+.blog p
+{
+    font-size: .8em;
+}
+.blog .col .two
+{
+    font-size: .8em;
+}
+/* end blog */
+/* start contact-us */
+.contact-us{
+    padding: 40px 5%;
+}
+.blog .col
+{
+    width: 70%;
+    align-self: center;
+}
+.contact-us h2
+{
+    font-size: 3em;
+}
+
+.contact-us form .row
+{
+    flex-direction: column;
+}
+.contact-us form .row input
+{
+    width: 100%;
+    font-size: 1.1em;
+
+}
+.contact-us form .col 
+{
+    flex-direction: column;
+    justify-content: center;
+}
+.contact-us form .col input{
+    margin: 0 20px;
+    font-size: 1.1em;
+}
+.contact-us form{
+    width: 70%;
+    margin: auto;
+}
+.contact-us form textarea
+{   
+    width: 100%;
+    font-size: 1.1em;
+
+}
+.contact-us form button
+{
+    font-size: 1.1em;
+}
+
+/* end contact-us */
+.footer p
+{
+    font-size: .82em;
+}
+}
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px)
+{
+
+}
