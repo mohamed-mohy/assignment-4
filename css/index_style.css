@@ -225,25 +225,26 @@ p span.cursor.typing {
 {
     list-style: none;
     padding-top: 10px;
+    display: flex;
+    flex-wrap: wrap;
 }
 .about-contant ul li
 {
-    font-size: 16px;
     color: #555;
     padding: 10px;
+    width: 50%;
 }
-.about-contant ul li:nth-child(2n+1)
+/* .about-contant ul li:nth-child(2n+1)
 {
     float: left;
     width: 40%;
-    font-size: 16px;
 
 }
 .about-contant ul li:nth-child(2n+1)::after
 {
     content: "";
     clear: both;
-}
+} */
 .about-contant ul li span
 {
     color: #333;
